@@ -1,9 +1,55 @@
-# Build Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
+# Anime Hub
 
-![Anime Website](https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
+![Anime Hub Screenshot](readme_img/1.png)
 
-### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-### [📙 Free Three.js Cheatsheet](https://resource.jsmastery.pro/threejs-cheatsheet)
-### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
+Anime Hub is a modern web application built with Next.js 14, utilizing Server Actions, Infinite Scroll, and Framer Motion animations. This application allows users to easily explore a variety of anime in an engaging way.
 
+## Key Features
+
+- **Server Actions**: Enables efficient data fetching.
+- **Infinite Scroll**: Users can scroll to load more anime without needing to refresh the page.
+- **Framer Motion Animations**: Adds smooth animations to enhance user experience.
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/username/anime_hub.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd anime_hub
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the application:
+   ```bash
+   npm run dev
+   ```
+
+The application will run at `http://localhost:3000`.
+
+## Technologies Used
+
+- **Next.js 14**: A React framework for building web applications.
+- **React**: A library for building user interfaces.
+- **Framer Motion**: A library for animations.
+- **Tailwind CSS**: A CSS framework for responsive design.
+
+## Contributing
+
+If you would like to contribute to this project, please fork this repository and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
